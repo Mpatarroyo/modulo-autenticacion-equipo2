@@ -24,7 +24,7 @@
 
 | Integrante | Rol |
 | :--- | :--- |
-| **Daniela Gualdrón** | Frontend[cite: 1] |
-| **Oscar Beltrán** | Frontend[cite: 1] |
-| **Santiago Aguilar** | Analista[cite: 1] |
-| **Manuel Elkin Patarroyo** | Documentación[cite: 1] |
+| **Daniela Gualdrón** | Frontend |
+| **Oscar Beltrán** | Frontend |
+| **Santiago Aguilar** | Analista |
+| **Manuel Elkin Patarroyo** | Documentación |
